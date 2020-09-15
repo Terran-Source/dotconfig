@@ -2,7 +2,7 @@
 
 [![Travis (.org)](https://img.shields.io/travis/Terran-Source/dotconfig?logo=travis&style=plastic)](https://travis-ci.org/Terran-Source/dotconfig) [![node](https://img.shields.io/node/v/@terran-source/dotconfig?logo=nodejs&style=plastic)](https://www.npmjs.com/package/@terran-source/dotconfig) [![GitHub](https://img.shields.io/github/license/Terran-Source/dotconfig?logo=github&style=plastic)](LICENSE)
 
-App configuration made simple for Node.js
+**[Deprecated]** App configuration made simple for Node.js. Now moved to [![NPM version](https://img.shields.io/npm/v/dots-config.svg?style=plastic&label=npm:%20dots-config)](https://www.npmjs.com/package/dots-config)
 
 Supports:
 
